@@ -7,8 +7,8 @@ Depends: R (>=3.4.3)
 Imports:
     dplyr (>=0.7),
     ggplot2 (>=2.2),
-    tidyr (>=0.8), 
-    RColorBrewer (>=1.1) 
+    tidyr (>=0.8),
+    RColorBrewer (>=1.1)
 License: 
 Encoding: UTF-8
 LazyData: true
